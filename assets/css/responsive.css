@@ -1,0 +1,406 @@
+@media(max-width: 1199px) {
+    .header_menu .navbar.navbar-default .nav.navbar-nav li {
+        margin-right: 12px;
+    }
+    .header_menu .navbar.navbar-default .nav.navbar-nav.navbar-right .book_btn .book_now_btn {
+        padding: 0px 10px;
+    }
+    
+}
+
+@media(max-width: 991px) {
+    .header_menu .navbar.navbar-default .navbar-header .navbar-brand {
+        height: 70px;
+        line-height: 60px;
+    }
+   
+    .header_menu .navbar.navbar-default .nav.navbar-nav li a i {
+        display: inline-block;
+        float: right;
+        line-height: 45px;
+    }
+   
+    .navbar-default .navbar-toggle .icon-bar {
+        background-color: #ffb606;
+    }
+    .header_menu.affix .navbar.navbar-default .nav.navbar-nav li a {
+        line-height: 45px;
+    }
+    .navbar-default .navbar-toggle {
+        border: none;
+    }
+    .navbar-toggle {
+        margin-right: 15px;
+        padding: 9px 0px;
+        margin-top: 18px;
+        margin-bottom: 19px;
+        border: none;
+        border-radius: 0px;
+        background: transparent !important;
+    }
+    .navbar-toggle .icon-bar {
+        display: block;
+        width: 26px;
+        height: 3px;
+    }
+    .header_menu .navbar.navbar-default .nav.navbar-nav {
+        margin: 0px;
+    }
+    .header_menu .navbar.navbar-default .nav.navbar-nav li {
+        display: block;
+        margin-right: 0px;
+    }
+    .header_menu .navbar.navbar-default .nav.navbar-nav.navbar-right li:last-child {
+        margin-top: 50px;
+    }
+    .header_menu .navbar.navbar-default .nav.navbar-nav {
+        text-align: left;
+        display: block;
+        padding: 0px 15px;
+    }
+    .header_menu .navbar.navbar-default .nav.navbar-nav>li>a {
+        line-height: 45px;
+        color: #242424;
+        border-bottom: 1px solid #cbcbcb;
+    }
+    .header_menu .navbar.navbar-default .navbar-collapse {
+        text-align: left;
+        background: #eeeeee;
+        max-height: 350px;
+    }
+    .header_menu .navbar.navbar-default .nav.navbar-nav li.search_dropdown {
+        display: none;
+    }
+    .header_menu .navbar.navbar-default .nav.navbar-nav.navbar-right .book_btn .book_now_btn {
+        padding: 0px 10px;
+        display: block;
+        line-height: 45px;
+        margin-bottom: 10px;
+    }
+    .header_menu .navbar.navbar-default .nav.navbar-nav li.submenu .dropdown-menu .submenu .dropdown-menu {
+        display: block;
+    }
+    .header_menu .navbar.navbar-default .nav.navbar-nav li.submenu .dropdown-menu>li a {
+        padding: 0px 15px;
+    }
+    .header_menu .navbar.navbar-default .nav.navbar-nav li.submenu>.dropdown-menu>li:hover>a {
+        background: #ffb606;
+        color: #fff;
+    }
+    .header_menu .navbar.navbar-default .nav.navbar-nav li.submenu .dropdown-menu li.submenu .dropdown-menu li a {
+        background: #eee;
+        color: #242424;
+    }
+    .header_menu .navbar.navbar-default .nav.navbar-nav li.submenu .dropdown-menu li.submenu .dropdown-menu li:hover a {
+        background: #ffb606;
+        color: #fff;
+    }
+   
+    .header_top_logo .header_top_l_inner .h_middle_text {
+        display: none;
+    }
+    .middle_menu_area .navbar.navbar-default .nav.navbar-nav {
+        margin: 0px;
+        max-height: 300px;
+    }
+    .middle_menu_area .navbar.navbar-default .navbar-brand {
+        display: block;
+        padding: 22px 0px 0px 15px;
+    }
+    .middle_menu_area .navbar.navbar-default .nav.navbar-nav li {
+        display: block;
+        margin-right: 0px;
+    }
+    .middle_menu_area .navbar.navbar-default .navbar-collapse {
+        text-align: left;
+        background: #eee;
+    }
+    .middle_menu_area .navbar.navbar-default .nav.navbar-nav>li>a {
+        line-height: 45px;
+        border-bottom: 1px solid #cbcbcb;
+        color: #242424;
+    }
+    .middle_menu_area .navbar.navbar-default .nav.navbar-nav li:last-child a {
+        display: none;
+    }
+    .middle_menu_area .navbar.navbar-default .nav.navbar-nav li.submenu ul .submenu ul {
+        display: block;
+    }
+    .middle_menu_area .navbar.navbar-default .nav.navbar-nav li.submenu ul li a {
+        padding: 0px 15px;
+    }
+    .header_menu .navbar.navbar-default .nav.navbar-nav li.submenu>.dropdown-menu>li:hover>a {
+        background: #ffb606;
+        color: #fff;
+        opacity: 1;
+    }
+    .middle_menu_area .navbar.navbar-default .nav.navbar-nav li.submenu .dropdown-menu li.submenu .dropdown-menu li a {
+        background: #eee;
+        color: #242424;
+        opacity: 1;
+    }
+    .middle_menu_area .navbar.navbar-default .nav.navbar-nav li.submenu .dropdown-menu li.submenu .dropdown-menu li:hover a {
+        background: #ffb606;
+        color: #fff;
+        opacity: 1;
+    }
+    
+    .middle_menu_area .navbar.navbar-default .nav.navbar-nav li a i {
+        display: inline-block;
+        float: right;
+        line-height: 44px;
+    }
+    .middle_menu_area .navbar.navbar-default .navbar-header .navbar-brand img {
+        display: inline-block;
+    }
+    .middle_menu_area .navbar.navbar-default .navbar-header .navbar-brand img+img {
+        display: none;
+    }
+    .middle_menu_area.affix .navbar.navbar-default .navbar-header .navbar-brand img {
+        display: none;
+    }
+    .middle_menu_area.affix .navbar.navbar-default .navbar-header .navbar-brand img+img {
+        display: inline-block;
+    }
+    .middle_menu_area .navbar.navbar-default .navbar-toggle {
+        padding: 8px 0px;
+    }
+    .middle_menu_area.affix .navbar.navbar-default .nav.navbar-nav>li>a {
+        line-height: 45px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    #portfolio h5:after {
+        right: 142px;
+        bottom: 185px;
+    }
+    .grid-item img {
+        width: 100%;
+        padding: 0px !important;
+        margin: 0px !important;
+    }
+    .description span {
+        font-size: 9px;
+    }
+    .description p {
+        font-size: 11px;
+        margin-left: 5px;
+    }
+    .search i {
+        padding: 10px;
+    }
+    .search i:hover {
+        padding: 10px;
+    }
+    .description i {
+        margin-top: 8px;
+        margin-left: 60px;
+    }
+    .grid-item .description {
+        left: 14px;
+        width: 87%;
+        height: 40px;
+        padding: 5px;
+        border-radius: 0px 0px 5px 5px;
+    }
+    .grid-item:hover .description {
+        left: 14px;
+        width: 87%;
+        height: 40px;
+        padding: 5px;
+        border-radius: 0px 0px 5px 5px;
+    }
+    .grid-item:before {
+        width: 87%;
+        top: 0;
+        left: 14px;
+        border-radius: 8px;
+    }
+    .grid-item:hover::before {
+        width: 87%;
+        top: 0;
+        left: 14px;
+        border-radius: 8px;
+    }
+    .grid-item:hover .search {
+        bottom: 47%;
+        right: 42%;
+    }
+}
+
+@media(max-width: 700px) {
+    
+}
+
+@media(max-width: 600px) {
+    .header_top,
+    .header_top_logo {
+        display: none;
+    }
+    
+    .main_header_area.black_menu+section,
+    .main_header_area.black_menu+div,
+    .main_header_area.black_menu+.row {
+        margin-top: 72px;
+    }
+    .middle_menu_area .navbar.navbar-default .navbar-brand {
+        width: 200px;
+    }
+    .navbar-brand>img {
+        max-width: 100%;
+    }
+    .middle_menu_area .navbar.navbar-default .navbar-brand {
+        padding: 25px 0px 0px 15px;
+    }
+    .banner_inner_content {
+        padding: 155px 0px 86px 0px;
+    }
+    .header_menu .navbar.navbar-default .navbar-header .navbar-brand {
+        line-height: 70px;
+        width: 200px;
+    }
+   
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  #portfolio h5:after {
+        right: 361px;
+        bottom: 70px;
+    }
+    .description span {
+        font-size: 15px;
+        text-align: left;
+        margin-left: 0px;
+        line-height: 16px;
+    }
+    .description p {
+        font-size: 15px;
+        text-align: left;
+        margin-left: 10px;
+        line-height: 16px;
+    }
+    .search i {
+        padding: 18px;
+    }
+    .search i:hover {
+        padding: 18px;
+    }
+    .description i {
+        margin-top: 8px;
+        margin-left: 150px;
+    }
+    .grid-item .description {
+        position: absolute;
+        bottom: 0px;
+        right: 0px;
+        left: 14px !important;
+        content: "";
+        background: #fff;
+        width: 94% !important;
+        border-radius: 0px 0px 8px 9px;
+        height: 60px !important;
+        padding: 10px !important;
+    }
+    .grid-item:hover .description {
+        position: absolute;
+        bottom: 0px;
+        right: 0px;
+        left: 14px !important;
+        content: "";
+        background: #fff;
+        width: 94% !important;
+        border-radius: 0px 0px 8px 9px;
+        height: 60px !important;
+        padding: 10px !important;
+    }
+    .grid-item:before {
+        position: absolute;
+        content: "";
+        height: 100%;
+        width: 94% !important;
+        top: 0;
+        left: 14px !important;
+        background: #3b3b3b;
+        opacity: 0.25;
+        border-radius: 10px;
+    }
+    .grid-item:hover::before {
+        position: absolute;
+        content: "";
+        height: 100%;
+        width: 94% !important;
+        top: 0;
+        left: 14px !important;
+        background: #3b3b3b;
+        opacity: 0.25;
+        border-radius: 10px;
+    }
+    .grid-item:hover .search {
+        bottom: 47%;
+        right: 42%;
+    }  
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+ .grid-item img {
+        width: 100%;
+        padding: 0px !important;
+        margin: 0px !important;
+    }
+    #portfolio h5:after {
+        right: 481px;
+        bottom: 70px;
+    }
+    .description span {
+        font-size: 9px;
+    }
+    .description p {
+        font-size: 11px;
+        margin-left: 5px;
+    }
+    .search i {
+        padding: 10px;
+    }
+    .search i:hover {
+        padding: 10px;
+    }
+    .description i {
+        margin-top: 8px;
+        margin-left: 60px;
+    }
+    .grid-item .description {
+        left: 15px;
+        width: 87%;
+        height: 40px;
+        padding: 5px;
+        border-radius: 0px 0px 5px 5px;
+    }
+    .grid-item:hover .description {
+        left: 15px;
+        width: 87%;
+        height: 40px;
+        padding: 5px;
+        border-radius: 0px 0px 5px 5px;
+    }
+    .grid-item:before {
+        width: 87%;
+        top: 0;
+        left: 15px;
+        border-radius: 8px;
+    }
+    .grid-item:hover::before {
+        width: 87%;
+        top: 0;
+        left: 15px;
+        border-radius: 8px;
+    }
+    .grid-item:hover .search {
+        bottom: 47%;
+        right: 42%;
+    }   
+}
+
+@media (max-width: 400px) {
+   
+}
